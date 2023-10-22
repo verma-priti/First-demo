@@ -1,8 +1,18 @@
 p{
-    color:red;
-    font: 15px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 20px;
+   text-align: center;
+   line-height: 30px;
+   margin-bottom: 50px;
 }
-body{
-    background: #9d9898;
+h1{
+   font-size:50px;
+   text-align:center;
+}
+h2{
+    font-size:50px;
+    text-align:center;   
+}
+a{
+   font-size: 20px;
+    text-align: center;
 }
